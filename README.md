@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cloud & Product Engineer blending mobile app, web app; React (Next.js) development, DevOps automation, and UI/UX design - AWS Certified and always building.
+Software Engineer working across frontend, mobile, web, backend, cloud & DevOps, with React/Next.js and UI/UX - AWS certified (x2) and always building.
 
 
 ## 🌐 Socials:
